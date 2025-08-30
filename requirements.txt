@@ -1,0 +1,5 @@
+strands-agents
+strands-agents-tools
+strands-agents[openai]
+psycopg2-binary
+fastmcp
